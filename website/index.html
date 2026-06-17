@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Movie & Series Recommendations</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="container top">
+      <div class="brand">🎬 Movie & Series Picks</div>
+
+      <div class="controls">
+        <input id="q" placeholder="Search: e.g., Dark, Breaking..." />
+        <select id="genre"></select>
+
+        <select id="minRating">
+          <option value="0">Min Rating: 0+</option>
+          <option value="7">7+</option>
+          <option value="8">8+</option>
+          <option value="9">9+</option>
+        </select>
+
+        <select id="sort">
+          <option value="rating_desc">Sort: Rating (high → low)</option>
+          <option value="rating_asc">Sort: Rating (low → high)</option>
+          <option value="title_asc">Sort: Title (A → Z)</option>
+        </select>
+
+        <button id="toggleFav"> Favorites Only </button>
+        <button id="toggleWatchlist"> Watchlist Only </button>
+        <button id="toggleWatched"> Watched Only </button>
+        <button id="clearAll"> Clear Lists</button>
+
+
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <div id="info" class="meta"></div>
+    <div id="grid" class="grid"></div>
+    <div id="empty" class="empty" style="display:none;">No results found.</div>
+  </main>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+
+</body>
+</html>
