@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Bali Escape",
+    "description": "Enjoy a tropical holiday with beautiful beaches, luxury hotels, and unforgettable sunsets.",
+    "duration": "5 Days / 4 Nights",
+    "price": "$799",
+    "location": "Bali, Indonesia",
+    "hotel": "4-Star Beach Resort",
+    "transport": "Round-trip Flight Included",
+    "guide": "English Speaking Tour Guide",
+    "meals": "Breakfast + Dinner",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "title": "Romantic Paris",
+    "description": "Discover Paris with its charming streets, famous museums, and iconic Eiffel Tower views.",
+    "duration": "4 Days / 3 Nights",
+    "price": "$950",
+    "location": "Paris, France",
+    "hotel": "4-Star City Hotel",
+    "transport": "Flight + Airport Transfer",
+    "guide": "Local City Guide",
+    "meals": "Breakfast Included",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "title": "Swiss Adventure",
+    "description": "Explore breathtaking mountains, peaceful lakes, and fresh alpine air in Switzerland.",
+    "duration": "6 Days / 5 Nights",
+    "price": "$1200",
+    "location": "Zurich & Alps, Switzerland",
+    "hotel": "Mountain View Hotel",
+    "transport": "Flight + Train Pass",
+    "guide": "Nature Tour Guide",
+    "meals": "Breakfast + Lunch",
+    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "title": "Istanbul Discovery",
+    "description": "Experience the unique mix of history and modern life in the heart of Istanbul.",
+    "duration": "3 Days / 2 Nights",
+    "price": "$450",
+    "location": "Istanbul, Türkiye",
+    "hotel": "Boutique Old City Hotel",
+    "transport": "Airport Transfer Included",
+    "guide": "Historical City Guide",
+    "meals": "Breakfast Included",
+    "image": "https://images.unsplash.com/photo-1527838832700-5059252407fa?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "title": "Santorini Dream",
+    "description": "Visit white-blue houses, amazing sea views, and one of the most beautiful sunsets in Greece.",
+    "duration": "4 Days / 3 Nights",
+    "price": "$890",
+    "location": "Santorini, Greece",
+    "hotel": "Sea View Boutique Hotel",
+    "transport": "Flight + Ferry Transfer",
+    "guide": "Island Tour Guide",
+    "meals": "Breakfast + Dinner",
+    "image": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "title": "Dubai Luxury Tour",
+    "description": "Enjoy a luxurious city break with desert safaris, shopping centers, and modern attractions.",
+    "duration": "5 Days / 4 Nights",
+    "price": "$1100",
+    "location": "Dubai, UAE",
+    "hotel": "5-Star Luxury Hotel",
+    "transport": "Flight + Private Transfer",
+    "guide": "Professional Tour Guide",
+    "meals": "Breakfast + Desert BBQ",
+    "image": "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1200&q=80"
+  }
+]

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GoTravelGo | Tours</title>
+  <link rel="stylesheet" href="65496_CSS/style.css" />
+</head>
+<body>
+
+  <header class="header">
+    <nav class="navbar container">
+      <div class="logo">GoTravelGo</div>
+
+      <ul class="nav-links">
+        <li><a href="65496_index.html">Home</a></li>
+        <li><a href="65496_tours.html">Tours</a></li>
+        <li><a href="65496_about.html">About</a></li>
+        <li><a href="65496_contact.html">Contact</a></li>
+      </ul>
+
+      <div class="menu-toggle" id="menu-toggle">☰</div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="page-banner small-banner">
+      <div class="container">
+        <h1>Our Tours</h1>
+        <p>Choose your next destination and enjoy an unforgettable travel experience.</p>
+      </div>
+    </section>
+
+    <section class="tour-list-section container">
+      <h2 class="section-title">Featured Tours</h2>
+      <div class="cards" id="tour-container"></div>
+    </section>
+
+    <section class="booking-section">
+      <div class="container">
+        <h2 class="section-title">Book Your Tour</h2>
+
+        <div class="booking-wrapper">
+          <form id="booking-form" class="booking-form">
+            <input type="text" id="selected-tour" placeholder="Selected Tour" readonly />
+            <input type="text" id="customer-name" placeholder="Full Name" />
+            <input type="email" id="customer-email" placeholder="Email Address" />
+            <input type="tel" id="customer-phone" placeholder="Phone Number" />
+            <input type="number" id="guest-count" placeholder="Number of Guests" min="1" />
+            <input type="date" id="travel-date" />
+            <input type="text" id="card-name" placeholder="Name on Card" />
+            <input type="text" id="card-number" placeholder="Card Number" maxlength="16" />
+            <input type="text" id="expiry-date" placeholder="MM/YY" maxlength="5" />
+            <input type="text" id="cvv" placeholder="CVV" maxlength="3" />
+            <button type="submit" class="btn">Confirm Booking</button>
+            <p id="booking-message"></p>
+          </form>
+        </div>
+      </div>
+    </section>
+
+    <section class="reservation-section">
+      <div class="container">
+        <h2 class="section-title">My Reservations</h2>
+        <div id="reservation-list" class="reservation-list"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>© 2026 GoTravelGo. All Rights Reserved.</p>
+    </div>
+  </footer>
+
+  <script src="65496_JS/script.js"></script>
+</body>
+</html>
