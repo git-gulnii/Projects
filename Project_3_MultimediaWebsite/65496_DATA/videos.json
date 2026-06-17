@@ -1,0 +1,38 @@
+[
+  {
+    "title": "HTML Full Course",
+    "topic": "Website Design for Multimedia",
+    "description": "Learn the basic structure of multimedia websites using HTML.",
+    "embed": "https://www.youtube.com/embed/pQN-pnXPaVg"
+  },
+  {
+    "title": "CSS Responsive Design",
+    "topic": "Website Design for Mobile Devices",
+    "description": "Understand responsive design with CSS, Flexbox, and layout techniques.",
+    "embed": "https://www.youtube.com/embed/yfoY53QXEnI"
+  },
+  {
+    "title": "JavaScript for Beginners",
+    "topic": "HTML + JS + CSS",
+    "description": "Use JavaScript to make multimedia websites dynamic and interactive.",
+    "embed": "https://www.youtube.com/embed/W6NZfCO5SIk"
+  },
+  {
+    "title": "Selenium IDE Tutorial",
+    "topic": "Techniques and Tools for Testing Web Applications",
+    "description": "Learn the basics of automated testing with Selenium IDE.",
+    "embed": "https://www.youtube.com/embed/khVvjhZISqQ"
+  },
+  {
+    "title": "Selenium WebDriver Basics",
+    "topic": "Testing Automation",
+    "description": "An introduction to Selenium WebDriver and automated browser testing.",
+    "embed": "https://www.youtube.com/embed/8CiDgDlaniU"
+  },
+  {
+    "title": "JMeter Tutorial",
+    "topic": "Performance Testing",
+    "description": "Learn how JMeter is used to test the performance of web applications.",
+    "embed": "https://www.youtube.com/embed/SoW2pBak1_Q"
+  }
+]

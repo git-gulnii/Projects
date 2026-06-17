@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Project_2_ServiceWebsite.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EasyService</title>
+    <link href="~/Content/Site.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <header class="main-header">
+            <div class="container nav-container">
+                <div class="logo">EasyService</div>
+
+                <nav>
+                    <ul class="nav-links">
+                        <li><a href="Default.aspx">Home</a></li>
+                        <li><a href="Services.aspx">Services</a></li>
+                        <li><a href="About.aspx">About</a></li>
+                        <li><a href="Contact.aspx">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+        <main>
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        </main>
+
+        <footer class="main-footer">
+            <div class="container">
+                <p>&copy; 2026 EasyService. All rights reserved.</p>
+            </div>
+        </footer>
+
+    </form>
+</body>
+</html>

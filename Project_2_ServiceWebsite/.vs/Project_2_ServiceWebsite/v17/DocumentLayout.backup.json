@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Project_2_ServiceWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCF619-92C8-41CF-8019-1BEE8447AA8F}|Project_2_ServiceWebsite\\Project_2_ServiceWebsite.csproj|c:\\users\\user\\desktop\\project_2_servicewebsite\\project_2_servicewebsite\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A9FCF619-92C8-41CF-8019-1BEE8447AA8F}|Project_2_ServiceWebsite\\Project_2_ServiceWebsite.csproj|solutionrelative:project_2_servicewebsite\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCF619-92C8-41CF-8019-1BEE8447AA8F}|Project_2_ServiceWebsite\\Project_2_ServiceWebsite.csproj|C:\\Users\\User\\Desktop\\Project_2_ServiceWebsite\\project_2_servicewebsite\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCF619-92C8-41CF-8019-1BEE8447AA8F}|Project_2_ServiceWebsite\\Project_2_ServiceWebsite.csproj|solutionrelative:project_2_servicewebsite\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCF619-92C8-41CF-8019-1BEE8447AA8F}|Project_2_ServiceWebsite\\Project_2_ServiceWebsite.csproj|C:\\Users\\User\\Desktop\\Project_2_ServiceWebsite\\project_2_servicewebsite\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A9FCF619-92C8-41CF-8019-1BEE8447AA8F}|Project_2_ServiceWebsite\\Project_2_ServiceWebsite.csproj|solutionrelative:project_2_servicewebsite\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCF619-92C8-41CF-8019-1BEE8447AA8F}|Project_2_ServiceWebsite\\Project_2_ServiceWebsite.csproj|C:\\Users\\User\\Desktop\\Project_2_ServiceWebsite\\project_2_servicewebsite\\services.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A9FCF619-92C8-41CF-8019-1BEE8447AA8F}|Project_2_ServiceWebsite\\Project_2_ServiceWebsite.csproj|solutionrelative:project_2_servicewebsite\\services.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCF619-92C8-41CF-8019-1BEE8447AA8F}|Project_2_ServiceWebsite\\Project_2_ServiceWebsite.csproj|C:\\Users\\User\\Desktop\\Project_2_ServiceWebsite\\project_2_servicewebsite\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A9FCF619-92C8-41CF-8019-1BEE8447AA8F}|Project_2_ServiceWebsite\\Project_2_ServiceWebsite.csproj|solutionrelative:project_2_servicewebsite\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCF619-92C8-41CF-8019-1BEE8447AA8F}|Project_2_ServiceWebsite\\Project_2_ServiceWebsite.csproj|C:\\Users\\User\\Desktop\\Project_2_ServiceWebsite\\project_2_servicewebsite\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A9FCF619-92C8-41CF-8019-1BEE8447AA8F}|Project_2_ServiceWebsite\\Project_2_ServiceWebsite.csproj|solutionrelative:project_2_servicewebsite\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCF619-92C8-41CF-8019-1BEE8447AA8F}|Project_2_ServiceWebsite\\Project_2_ServiceWebsite.csproj|C:\\Users\\User\\Desktop\\Project_2_ServiceWebsite\\project_2_servicewebsite\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A9FCF619-92C8-41CF-8019-1BEE8447AA8F}|Project_2_ServiceWebsite\\Project_2_ServiceWebsite.csproj|solutionrelative:project_2_servicewebsite\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCF619-92C8-41CF-8019-1BEE8447AA8F}|Project_2_ServiceWebsite\\Project_2_ServiceWebsite.csproj|C:\\Users\\User\\Desktop\\Project_2_ServiceWebsite\\project_2_servicewebsite\\services.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCF619-92C8-41CF-8019-1BEE8447AA8F}|Project_2_ServiceWebsite\\Project_2_ServiceWebsite.csproj|solutionrelative:project_2_servicewebsite\\services.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Services.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project_2_ServiceWebsite\\Project_2_ServiceWebsite\\Services.aspx",
+              "RelativeDocumentMoniker": "Project_2_ServiceWebsite\\Services.aspx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project_2_ServiceWebsite\\Project_2_ServiceWebsite\\Services.aspx",
+              "RelativeToolTip": "Project_2_ServiceWebsite\\Services.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-04-14T21:09:12.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project_2_ServiceWebsite\\Project_2_ServiceWebsite\\Contact.aspx",
+              "RelativeDocumentMoniker": "Project_2_ServiceWebsite\\Contact.aspx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project_2_ServiceWebsite\\Project_2_ServiceWebsite\\Contact.aspx",
+              "RelativeToolTip": "Project_2_ServiceWebsite\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-04-14T21:09:50.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project_2_ServiceWebsite\\Project_2_ServiceWebsite\\Content\\Site.css",
+              "RelativeDocumentMoniker": "Project_2_ServiceWebsite\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project_2_ServiceWebsite\\Project_2_ServiceWebsite\\Content\\Site.css",
+              "RelativeToolTip": "Project_2_ServiceWebsite\\Content\\Site.css",
+              "ViewState": "AgIAAHQBAAAAAAAAAAAkwJMBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-14T21:03:17.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project_2_ServiceWebsite\\Project_2_ServiceWebsite\\Contact.aspx.cs",
+              "RelativeDocumentMoniker": "Project_2_ServiceWebsite\\Contact.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project_2_ServiceWebsite\\Project_2_ServiceWebsite\\Contact.aspx.cs",
+              "RelativeToolTip": "Project_2_ServiceWebsite\\Contact.aspx.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAQwLIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T21:10:24.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project_2_ServiceWebsite\\Project_2_ServiceWebsite\\Default.aspx",
+              "RelativeDocumentMoniker": "Project_2_ServiceWebsite\\Default.aspx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project_2_ServiceWebsite\\Project_2_ServiceWebsite\\Default.aspx",
+              "RelativeToolTip": "Project_2_ServiceWebsite\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-04-14T21:06:59.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project_2_ServiceWebsite\\Project_2_ServiceWebsite\\About.aspx",
+              "RelativeDocumentMoniker": "Project_2_ServiceWebsite\\About.aspx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project_2_ServiceWebsite\\Project_2_ServiceWebsite\\About.aspx",
+              "RelativeToolTip": "Project_2_ServiceWebsite\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-04-14T21:09:36.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project_2_ServiceWebsite\\Project_2_ServiceWebsite\\Site.Master",
+              "RelativeDocumentMoniker": "Project_2_ServiceWebsite\\Site.Master",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project_2_ServiceWebsite\\Project_2_ServiceWebsite\\Site.Master",
+              "RelativeToolTip": "Project_2_ServiceWebsite\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-04-14T21:02:51.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Services.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project_2_ServiceWebsite\\Project_2_ServiceWebsite\\Services.aspx.cs",
+              "RelativeDocumentMoniker": "Project_2_ServiceWebsite\\Services.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project_2_ServiceWebsite\\Project_2_ServiceWebsite\\Services.aspx.cs",
+              "RelativeToolTip": "Project_2_ServiceWebsite\\Services.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T21:11:29.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
